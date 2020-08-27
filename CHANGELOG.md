@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/prince737/java-semantic-release/compare/1.0.1...1.0.2) (2020-08-27)
+
+
+### Bug Fixes
+
+* **version:** fixed version ([5d02b3c](https://github.com/prince737/java-semantic-release/commit/5d02b3c1182d7fe11e5c5023c0dc9c21c2b274cd))
+
 ## [1.0.1](https://github.com/prince737/java-semantic-release/compare/1.0.0...1.0.1) (2020-08-27)
 
 
