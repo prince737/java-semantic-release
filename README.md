@@ -1,7 +1,7 @@
 [![Build Status](https://api.travis-ci.org/ibm-cloud-security/security-advisor-sdk-java.svg?branch=master)](https://travis-ci.org/github/ibm-cloud-security/security-advisor-sdk-java)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
-# IBM Cloud Security Advisor Java SDK Version 1.1.5
+# IBM Cloud Security Advisor Java SDK Version 1.0.0
 Java client library to interact with various [IBM Cloud Security Advisor](https://cloud.ibm.com/apidocs?category=security).
 
 Disclaimer: this SDK is being released initially as a **pre-release** version.
@@ -21,15 +21,19 @@ Changes might occur which impact applications that use this SDK.
 
 <!-- toc -->
 
-- [Overview](#overview)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Using the SDK](#using-the-sdk)
-- [Questions](#questions)
-- [Issues](#issues)
-- [Open source @ IBM](#open-source--ibm)
-- [Contributing](#contributing)
-- [License](#license)
+- [IBM Cloud Security Advisor Java SDK Version 1.0.0](#ibm-cloud-security-advisor-java-sdk-version-100)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+        - [Maven](#maven)
+        - [Gradle](#gradle)
+  - [Using the SDK](#using-the-sdk)
+  - [Questions](#questions)
+  - [Issues](#issues)
+  - [Open source @ IBM](#open-source--ibm)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 <!-- tocstop -->
 
