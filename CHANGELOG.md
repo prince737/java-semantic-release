@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/prince737/java-semantic-release/compare/1.0.11...1.0.12) (2020-08-27)
+
+
+### Bug Fixes
+
+* **releaserc:** add javadoc jar ([ade04e0](https://github.com/prince737/java-semantic-release/commit/ade04e0641d14de22f37d0f9db714b0a97acbc48))
+
 ## [1.0.11](https://github.com/prince737/java-semantic-release/compare/1.0.10...1.0.11) (2020-08-27)
 
 
