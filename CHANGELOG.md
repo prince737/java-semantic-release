@@ -1,3 +1,10 @@
+## [1.0.16](https://github.com/prince737/java-semantic-release/compare/1.0.15...1.0.16) (2020-08-27)
+
+
+### Bug Fixes
+
+* **release:** fix asset glob ([5883699](https://github.com/prince737/java-semantic-release/commit/58836998e6dbb4b8415780112c0d2a0f34faa157))
+
 ## [1.0.15](https://github.com/prince737/java-semantic-release/compare/1.0.14...1.0.15) (2020-08-27)
 
 
