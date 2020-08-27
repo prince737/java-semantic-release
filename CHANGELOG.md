@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/prince737/java-semantic-release/compare/1.0.13...1.0.14) (2020-08-27)
+
+
+### Bug Fixes
+
+* **travis:** update travis yml ([071026f](https://github.com/prince737/java-semantic-release/commit/071026feb1a2bbf86532922e053067f078cacdff))
+
 ## [1.0.13](https://github.com/prince737/java-semantic-release/compare/1.0.12...1.0.13) (2020-08-27)
 
 
