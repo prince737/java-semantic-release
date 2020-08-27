@@ -50,9 +50,6 @@
         <module>modules/common</module>
 
         <!-- >>> List each service's module here -->
-        <module>modules/findings_api</module>
-
-        <!-- >>> List each service's module here -->
         <module>modules/notifications_api</module>
 
         <!-- This module should always be listed last -->

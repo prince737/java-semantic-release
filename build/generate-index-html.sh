@@ -17,7 +17,7 @@ echo '<!DOCTYPE html>
         <h1>IBM Cloud Security Advisor Java SDK Documentation</h1>
     </div>
 
-    <p><a href="https://cloud.ibm.com/apidocs/security-advisor/findings">Findings API</a>
+    <p>
         | <a href="https://cloud.ibm.com/apidocs/security-advisor/notifications">Notifications API</a>
     </p>
 
