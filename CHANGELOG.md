@@ -1,3 +1,15 @@
+# 1.0.0 (2020-08-27)
+
+
+### Bug Fixes
+
+* **bumpversion:** Remove bumpversion ([c4a2b86](https://github.com/prince737/java-semantic-release/commit/c4a2b86a764c261f2fa125e9070c42c690e05ad3))
+* **fix:** fix ([0d7b2a5](https://github.com/prince737/java-semantic-release/commit/0d7b2a5a8928fbe06ef401d6f53c467ddaaec040))
+* **fix:** fix ([853cc2b](https://github.com/prince737/java-semantic-release/commit/853cc2b05d04379b02576f1d1e2bdb57eb7e59c7))
+* **releaserc:** change release rc directory ([c82e910](https://github.com/prince737/java-semantic-release/commit/c82e910eb86d703abd9e36ac6e7ac754d4f44fad))
+* **version:** fixed current_version ([ce2beeb](https://github.com/prince737/java-semantic-release/commit/ce2beebeb06d24ae4852b97c22bc655d84574936))
+* **version:** update version ([488e095](https://github.com/prince737/java-semantic-release/commit/488e095e1dc3c26c201f6908ff33ab00ad57efa4))
+
 ## [1.1.5](https://github.com/ibm-cloud-security/security-advisor-sdk-java/compare/1.1.4...1.1.5) (2020-08-26)
 
 
