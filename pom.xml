@@ -52,8 +52,6 @@
         <!-- >>> List each service's module here -->
         <module>modules/notifications_api</module>
 
-        <!-- This module should always be listed last -->
-        <module>modules/coverage-reports</module>
     </modules>
 
     <licenses>
