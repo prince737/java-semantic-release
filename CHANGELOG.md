@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/prince737/java-semantic-release/compare/1.0.12...1.0.13) (2020-08-27)
+
+
+### Bug Fixes
+
+* **releaserc:** trial for * glob ([4c345b7](https://github.com/prince737/java-semantic-release/commit/4c345b7cf49de3225fc290c619998d0d653524a2))
+
 ## [1.0.12](https://github.com/prince737/java-semantic-release/compare/1.0.11...1.0.12) (2020-08-27)
 
 
