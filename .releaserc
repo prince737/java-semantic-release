@@ -23,10 +23,7 @@
         "assets": 
         [
           {
-            "path": "modules/notifications_api/target/notifications_api-*[0-9].*[0-9].*[0-9].jar", "label": "notifications_api-${nextRelease.version}.jar", "name": "notifications_api-${nextRelease.version}.jar"
-          },
-          {
-            "path": "modules/notifications_api/target/notifications_api-*[0-9].*[0-9].*[0-9]-javadoc.jar", "label": "notifications_api_javadoc-${nextRelease.version}.jar", "name": "notifications_api_javadoc-${nextRelease.version}.jar"
+            "path": "modules/notifications_api/target/notifications_api-*.*.*.jar", "label": "notifications_api-${nextRelease.version}.jar", "name": "notifications_api-${nextRelease.version}.jar"
           }
         ]
       }
