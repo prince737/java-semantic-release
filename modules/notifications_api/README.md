@@ -8,7 +8,7 @@
 <dependency>
   <groupId>com.ibm.cloud.securityadvisor</groupId>
   <artifactId>notifications_api</artifactId>
-  <version>1.0.7</version>
+  <version>1.0.8</version>
 </dependency>
 ```
 
