@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/prince737/java-semantic-release/compare/1.0.14...1.0.15) (2020-08-27)
+
+
+### Bug Fixes
+
+* **release:** update asset path glob ([8c9377a](https://github.com/prince737/java-semantic-release/commit/8c9377a63b791dea234be78c1185f0a0c838b7e5))
+
 ## [1.0.14](https://github.com/prince737/java-semantic-release/compare/1.0.13...1.0.14) (2020-08-27)
 
 
