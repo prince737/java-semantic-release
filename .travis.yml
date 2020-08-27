@@ -18,6 +18,8 @@ before_install:
 install: true
 script:
 -  mvn clean package
+-  ls  modules/notifications_api -R
+-  ls  modules/notifications_api/target -R
 before_deploy:
 - pip install --user bump2version
 - npm install @semantic-release/changelog
