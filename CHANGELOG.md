@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/prince737/java-semantic-release/compare/1.0.5...1.0.6) (2020-08-27)
+
+
+### Bug Fixes
+
+* **release:** use range in asset path ([36d9240](https://github.com/prince737/java-semantic-release/commit/36d924005292a3715c5637bec0e9bd245c940c11))
+
 ## [1.0.5](https://github.com/prince737/java-semantic-release/compare/1.0.4...1.0.5) (2020-08-27)
 
 
